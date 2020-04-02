@@ -18,7 +18,11 @@ Safari does not yet support the speech API it uses.
 The web control is a front end to a bot runs as a web service similar to  [Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/)
 
 
-It is not necessary for you to build the project in order to run it, because you can just run the web chat control from a web page. The instructions and live web control are posted are at: https://aka.ms/dmak-sds-575-test. This web control is easier to test if you don't want to install Cortana on your phone or computer.
+It is not necessary for you to build the project in order to run it, because you can just run the web chat control from a web page. 
+
+<!-- The instructions and live web control are posted are at: https://aka.ms/dmak-sds-575-test.  -->
+
+This web control is easier to test if you don't want to install Cortana on your phone or computer.
 
 To run the web control locally, copy voice-test.html, botchat.js, and botchat.css to your locally running web server, and open voice-test.html with the following key appended to the URL, as shown in this URL: http://students.washington.edu/dpm3/voice-test.html?s=tuBISJY4UhI.cwA.RlY.8fj5FJK_9yK6J4LB-JaaJAPdZVqQ9DB_jP6ysYn6DIo
 
