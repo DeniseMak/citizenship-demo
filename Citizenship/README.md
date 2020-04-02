@@ -1,4 +1,4 @@
-# LING 575 project: Citizenship Quiz Cortana Skill and Speech-enabled WebChat Control
+Citizenship Quiz Cortana Skill and Speech-enabled WebChat Control
 
 For the project description and write-up see: https://aka.ms/dmak-sds-575-description
 For the running demo see: https://aka.ms/dmak-sds-575-test
