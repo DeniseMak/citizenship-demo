@@ -28,7 +28,7 @@ To run the web control locally, copy voice-test.html, botchat.js, and botchat.cs
 
 
 ## Cortana Skill
-You can run the Cortana skill by saying “Ask Citizenship for a test” to Cortana on IPhone, Android, or Windows 10. You need to use a test account to log into Cortana on your device (see this link for a screenshot of the UI for changing your login) since the skill isn’t publicly available yet. The test account is username: chatbot.test@outlook.com password: CortanaTest
+You can run the Cortana skill by saying “Ask Citizenship for a test” to Cortana on IPhone, Android, or Windows 10. You need to use a test account to log into Cortana on your device since the skill isn’t publicly available yet. The test account is username: chatbot.test@outlook.com password: CortanaTest
 
 To run this locally, you will need to have node.js installed. The main file is app.js. In the directory of app.js, run the following:
 
