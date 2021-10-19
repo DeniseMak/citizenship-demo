@@ -124,7 +124,7 @@ var bot = new builder.UniversalBot(connector, function (session) {
             { question: 'What are the two parts of the U.S. Congress?', answer: 'the Senate and House (of Representatives)', qId: 9 },
             { question: 'Who is one of your state’s U.S. Senators now?', answer: 'varies depending on your state. See https://en.wikipedia.org/wiki/List_of_current_United_States_Senators', qId: 10 }, // Use list entity recognizer
             { question: 'In what month do we vote for President?', answer: 'November', qId: 11 },
-            { question: 'What is the name of the President of the United States now?', answer: 'Any of: Donald J. Trump, Donald Trump, Trump', qId: 12 },
+            { question: 'What is the name of the President of the United States now?', answer: 'Any of: Joseph Biden, Joe Biden, Biden', qId: 12 },
             { question: 'What is the capital of your state?', answer: '', qId: 13 }, // Use list entity recognizer
             { question: 'What are the two major political parties in the United States?', answer: 'Democratic and Republican', qId: 14 },
             { question: 'What is one responsibility that is only for United States citizens?', answer: 'serve on a jury, or vote in a federal election', qId: 15 },
@@ -205,7 +205,7 @@ bot.dialog('CreateTestDialog', [
                 { question: 'What are the two parts of the U.S. Congress?', answer: 'the Senate and House (of Representatives)', qId: 9 },
                 { question: 'Who is one of your state’s U.S. Senators now?', answer: 'varies depending on your state. See https://en.wikipedia.org/wiki/List_of_current_United_States_Senators', qId: 10 }, // Use list entity recognizer
                 { question: 'In what month do we vote for President?', answer: 'November', qId: 11 },
-                { question: 'What is the name of the President of the United States now?', answer: 'Any of: Donald J. Trump, Donald Trump, Trump', qId: 12 },
+                { question: 'What is the name of the President of the United States now?', answer: 'Any of: Joseph Biden, Joe Biden, Biden', qId: 12 },
                 { question: 'What is the capital of your state?', answer: '', qId: 13 }, // Use list entity recognizer
                 { question: 'What are the two major political parties in the United States?', answer: 'Democratic and Republican', qId: 14 },
                 { question: 'What is one responsibility that is only for United States citizens?', answer: 'serve on a jury, or vote in a federal election', qId: 15 },
