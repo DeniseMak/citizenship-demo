@@ -22,6 +22,7 @@ if (DEBUG) {
 // Turning this on will cause a crash if you invoke the bot saying test
 // but if you turn it off, it will work. This is due to how session.privateConversationData won't get set in 
 // a persistent way in the default dialog that makes it accesible in CreateTest if it's called right away.
+// TODO: investigate whether the above issue with session.privateConversationData still exists.
 const INIT_IN_DEFAULT = GENERATE_ERR;  
 const LUISClient = require("./luis_sdk");
 
