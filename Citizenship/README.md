@@ -1,9 +1,10 @@
-Citizenship Quiz Cortana Skill and Speech-enabled WebChat Control
+# Citizenship Quiz Cortana Skill and Speech-enabled WebChat Control
 
 For more details, or a demo, email dpm3 at uw.edu
 <!-- todo
 For the project description and write-up see: https://aka.ms/dmak-sds-575-description 
 For the running demo see: https://aka.ms/dmak-sds-575-test -->
+> I'm currently working on finding a place to host the web-based demo. For now, the chatbot can be deployed locally.
 
 The webchat-control folder contains the Web Chat Control, and the cortana-skill folder contains the server-side bot dialogs that both the Web Chat Control and Cortana would communicate with.
 
